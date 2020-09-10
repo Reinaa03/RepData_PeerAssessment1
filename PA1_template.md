@@ -139,7 +139,8 @@ ggplot(Total_Steps, aes(x = steps)) + geom_histogram(fill = "blue", binwidth = 1
 | First Part (with na)                   | 10765       | 10765         |
 | Second Part (fillin in na with median) | 9354.23     | 10395         |
 
-![](https://https://github.com/Reinaa03/RepData_PeerAssessment1/blob/master/histogram_imputed-1.png)
+
+![](https://github.com/Reinaa03/RepData_PeerAssessment1/blob/master/histogram_imputed-1.png)
 
 
 Are there differences in activity patterns between weekdays and weekends?
