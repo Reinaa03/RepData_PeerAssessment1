@@ -133,7 +133,6 @@ Total_Steps[, .(Mean_Steps = mean(steps), Median_Steps = median(steps))]
 ggplot(Total_Steps, aes(x = steps)) + geom_histogram(fill = "blue", binwidth = 1000) + labs(title = "Daily Steps", x = "Steps", y = "Frequency")
 ```
 
-![](https://github.com/DeftPenk/reproducibleresearch/blob/master/Project1/unnamed-chunk-3.png)
 
 | Type of Estimate                       | Mean\_Steps | Median\_Steps |
 |----------------------------------------|-------------|---------------|
