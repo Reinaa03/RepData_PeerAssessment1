@@ -141,6 +141,7 @@ ggplot(Total_Steps, aes(x = steps)) + geom_histogram(fill = "blue", binwidth = 1
 
 ![](https://https://github.com/Reinaa03/RepData_PeerAssessment1/blob/master/histogram_imputed-1.png)
 
+
 Are there differences in activity patterns between weekdays and weekends?
 -------------------------------------------------------------------------
 
